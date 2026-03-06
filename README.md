@@ -36,48 +36,30 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=python,js" />
+</p>
 
-### AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Generative AI]### AI / ML
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+</p>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21F?style=for-the-badge)
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F61?style=for-the-badge)
-![CNN](https://img.shields.io/badge/Convolutional%20Neural%20Networks-4CAF50?style=for-the-badge)
-![FNN](https://img.shields.io/badge/Feedforward%20Neural%20Networks-2196F3?style=for-the-badge)
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF9800?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-00BCD4?style=for-the-badge)(https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
-
-### Web Development
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Frameworks
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode)
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
----
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+</p>
 
 ## 🧩 Featured Projects
 
