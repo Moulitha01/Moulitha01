@@ -55,12 +55,12 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 - AI Automation Workflows  
 
 ### 🔐 Cybersecurity Fundamentals
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
+- Hashing Algorithms (SHA, bcrypt)
+- Symmetric Encryption
+- Asymmetric Encryption
+- Digital Signatures
+- SSL/TLS
 - API Security  
-- Basic Cryptography Concepts  
 
 
 ---
@@ -98,7 +98,7 @@ Full-stack authentication module with JWT, role-based access control, and secure
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto: moulithac@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
