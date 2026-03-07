@@ -2,7 +2,7 @@
 <h3 align="center">Prefinal Year CSE Student | Generative AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-Building intelligent systems, exploring Generative AI, and developing impactful tech solutions.
+Building intelligent systems, exploring Generative AI, and developing impactful technical solutions.
 </p>
 
 ---
