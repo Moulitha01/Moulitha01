@@ -40,6 +40,13 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 <img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
+### ⚙️ Dev & Deployment Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+</p>
+
+
 ### 🧠 LLM & AI Concepts
 - Prompt Engineering  
 - RAG (Retrieval Augmented Generation)  
@@ -52,16 +59,9 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
-- OWASP Principles  
-- Secure Authentication (JWT, OAuth Basics)  
 - API Security  
 - Basic Cryptography Concepts  
 
-### ⚙️ Dev & Deployment Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
-</p>
 
 ---
 
@@ -81,19 +81,29 @@ Full-stack authentication module with JWT, role-based access control, and secure
 
 ---
 
-## 🌍 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/moulitha-chandrasekar-8046522a5" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/moulitha-chandrasekar-8046522a5" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/Moulitha01" target="blank">
-<img src="https://img.shields.io/badge/GitHub-Projects-000?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Moulitha01" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://instagram.com/moulitha_chandrasekar" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
