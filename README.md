@@ -18,59 +18,79 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="linkedin.com/in/moulitha-chandrasekar-8046522a5" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/moulitha_chandrasekar" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Moulitha01" target="blank">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Arsenal
 
-### 💻 Programming
+### 👨‍💻 Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python,js,ts" />
 </p>
 
-### 🤖 AI / ML
+### 🌐 MERN Stack
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
+### 🤖 AI / GenAI
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=opencv" />
 </p>
 
-### 🌐 Web Development
+### 🧠 LLM & AI Concepts
+- Prompt Engineering  
+- RAG (Retrieval Augmented Generation)  
+- Multi-Agent Systems  
+- Embeddings & Vector Databases  
+- AI Automation Workflows  
+
+### 🔐 Cybersecurity Fundamentals
 <p>
-<img src="https://skillicons.dev/icons?i=html,css" />
+<img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
-### ⚙️ Tools
+- OWASP Principles  
+- Secure Authentication (JWT, OAuth Basics)  
+- API Security  
+- Basic Cryptography Concepts  
+
+### ⚙️ Dev & Deployment Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
 </p>
 
-## 🧩 Featured Projects
+---
 
-### 🤖 AI Code Generator
-A system that generates complete code from user prompts using LLM-based architecture.
+## 🧩 Advanced Projects
 
-### 🧠 Multi-Agent AI System
-An architecture with multiple intelligent agents collaborating to design, generate and test code automatically.
+### 🤖 AI Code Architect
+LLM-powered system that generates, refactors, and tests full-stack applications using prompt-driven architecture.
 
-### 🏛️ Scheme Recommendation System
-An AI system that analyzes user eligibility and recommends relevant government schemes using NLP and RAG.
+### 🧠 Autonomous Multi-Agent Developer
+A collaborative AI system where planner, coder, and tester agents work together to build scalable applications.
+
+### 🏛️ AI-Powered Scheme Navigator
+Voice-enabled assistant designed for rural & semi-literate users using RAG + multilingual NLP to recommend government schemes.
+
+### 🔐 Secure MERN Authentication System
+Full-stack authentication module with JWT, role-based access control, and secure API validation.
+
+---
+
+## 🌍 Connect With Me
+<p align="left">
+<a href="https://linkedin.com/in/moulitha-chandrasekar-8046522a5" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Moulitha01" target="blank">
+<img src="https://img.shields.io/badge/GitHub-Projects-000?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
