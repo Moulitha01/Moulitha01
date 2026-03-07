@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moulitha</h1>
+<h1 align="center">Hello , I'm Moulitha</h1>
 <h3 align="center">Prefinal Year CSE Student | Generative AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
@@ -25,7 +25,7 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/yourinstagram" target="blank">
+<a href="https://instagram.com/moulitha_chandrasekar" target="blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
