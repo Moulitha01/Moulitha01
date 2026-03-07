@@ -68,10 +68,11 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 ## 🧩 Advanced Projects
 
 ### 🤖 AI Code Architect
-LLM-powered system that generates, refactors, and tests full-stack applications using prompt-driven architecture.
+LLM-based system that generates full-stack code using prompt-driven architecture with automated testing workflows. Built using Python, FastAPI, and LLM APIs.
 
 ### 🧠 Autonomous Multi-Agent Developer
-A collaborative AI system where planner, coder, and tester agents work together to build scalable applications.
+Autonomous Multi-Agent Developer
+Multi-agent architecture where planner, coder, and tester agents collaborate to generate and validate code. Built using Python, LangChain, and agent orchestration workflows.
 
 ### 🏛️ AI-Powered Scheme Navigator
 Voice-enabled assistant designed for rural & semi-literate users using RAG + multilingual NLP to recommend government schemes.
