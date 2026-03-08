@@ -113,7 +113,7 @@ Full-stack authentication module with JWT, role-based access control, and secure
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Moulitha01&theme=tokyonight)
 
 ---
 
