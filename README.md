@@ -107,7 +107,7 @@ Full-stack authentication module with JWT, role-based access control, and secure
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moulitha01&show_icons=true&theme=tokyonight)
 
 ---
 
