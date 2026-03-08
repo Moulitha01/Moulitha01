@@ -119,7 +119,7 @@ Full-stack authentication module with JWT, role-based access control, and secure
 
 ## 📈 Contribution Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moulitha01&theme=tokyo-night)
 
 ---
 
