@@ -1,4 +1,4 @@
-<h1 align="center">Hello , I'm Moulitha</h1>
+<h1 align="center">Hello , I'm Moulitha C</h1>
 <h3 align="center">Prefinal Year CSE Student | Generative AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
