@@ -7,11 +7,11 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Prefinal year Computer Science Engineering student  
 - 🤖 Interested in **Generative AI, Machine Learning and AI Systems**
-- 🧠 Exploring **Multi-Agent AI Architectures**
+- 🧠 Exploring **Multi-Agent AI Architectures and A2A Protocol**
 - 💻 Passionate about building **AI-powered applications**
 - 🏆 Actively participating in **hackathons and real-world AI projects**
 - 🌱 Currently learning **Advanced LLM Applications and AI System Design**
