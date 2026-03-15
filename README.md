@@ -42,8 +42,8 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 
 ### ⚙️ Dev & Deployment Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter.svg" width="50"/>
 </p>
 
 
