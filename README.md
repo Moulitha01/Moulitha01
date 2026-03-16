@@ -42,7 +42,6 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 
 ### ⚙️ Dev & Deployment Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
   <!-- Devicon Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
