@@ -41,11 +41,15 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 </p>
 
 ### ⚙️ Dev & Deployment Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons.svg" width="50"/>
-</p>
+<p align="center">
+  <!-- Skill Icons -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
+  <!-- Devicon Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+</p>
 
 ### 🧠 LLM & AI Concepts
 - Prompt Engineering  
