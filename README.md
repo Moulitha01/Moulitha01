@@ -41,15 +41,6 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 </p>
 
 ### ⚙️ Dev & Deployment Tools
-### 🤖 AI / GenAI
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-<img src="https://skillicons.dev/icons?i=opencv" />
-</p>
-
-### ⚙️ Dev & Deployment Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
