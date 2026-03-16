@@ -41,8 +41,7 @@ Building intelligent systems, exploring Generative AI, and developing impactful 
 </p>
 
 ### ⚙️ Dev & Deployment Tools
-<p align="center">
-  <!-- Skill Icons -->
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
   <!-- Devicon Icons -->
