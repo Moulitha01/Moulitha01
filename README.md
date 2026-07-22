@@ -75,8 +75,7 @@ Multi-agent architecture where planner, coder, and tester agents collaborate to 
 ### 🏛️ AI-Powered Scheme Navigator
 Voice-enabled assistant designed for rural & semi-literate users using RAG + multilingual NLP to recommend government schemes.
 
-### 🔐 Secure MERN Authentication System
-Full-stack authentication module with JWT, role-based access control, and secure API validation.
+
 
 ---
 
