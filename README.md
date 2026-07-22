@@ -73,7 +73,7 @@ Autonomous Multi-Agent Developer
 Multi-agent architecture where planner, coder, and tester agents collaborate to generate and validate code. Built using Python, LangChain, and agent orchestration workflows.
 
 ### 🏛️ AI-Powered Scheme Navigator
-Voice-enabled assistant designed for rural & semi-literate users using RAG + multilingual NLP to recommend government schemes.
+Voice-enabled assistant designed for rural & semi-literate users using RAG + multilingual NLP to recommend government schemes.used 
 
 
 
