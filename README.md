@@ -110,8 +110,7 @@ Voice-enabled assistant designed for rural & semi-literate users using RAG + mul
 ## 📊 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moulitha01&label=Profile%20Views&color=0e75b6&style=flat" alt="Moulitha01" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=Moulitha01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /></p>
 
 ## 🔥 GitHub Streak
 
