@@ -1,143 +1,235 @@
-<h1 align="center">Hello , I'm Moulitha C</h1>
-<h3 align="center">Final Year CSE Student | Generative AI & Machine Learning Enthusiast</h3>
 
-<p align="center">
-Building intelligent systems, exploring Generative AI, and developing impactful technical solutions.
-</p>
+<!--
+  MOULITHA C | GitHub Profile
+  Theme: AI Systems / Developer Terminal
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:123C4A,100:1B8A78&height=220&section=header&text=MOULITHA%20C&fontSize=52&fontColor=E8FFF8&fontAlignY=38&desc=AI%20SYSTEMS%20%2F%20MACHINE%20LEARNING%20%2F%20GENAI&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=66E3C4&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Student;Building+Intelligent+AI+Systems;Exploring+Multi-Agent+Architectures;Turning+Ideas+Into+Working+Products" alt="Animated introduction"/>
+
+<br/>
+
+<a href="https://github.com/Moulitha01">
+<img src="https://img.shields.io/badge/GitHub-Moulitha01-101820?style=for-the-badge&logo=github&logoColor=66E3C4"/>
+</a>
+<a href="https://linkedin.com/in/moulitha-chandrasekar-8046522a5">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-101820?style=for-the-badge&logo=linkedin&logoColor=66E3C4"/>
+</a>
+
+<br/><br/>
+
+**I build AI systems that turn ideas into working applications.**
+
+*Learning deeply. Building consistently. Engineering intelligently.*
+
+</div>
 
 ---
 
-##  About Me
+## `01` / SYSTEM PROFILE
 
-- 🎓 Prefinal year Computer Science Engineering student  
-- 🤖 Interested in **Generative AI, Machine Learning and AI Systems**
-- 🧠 Exploring **Multi-Agent AI Architectures and A2A Protocol**
-- 💻 Passionate about building **AI-powered applications**
-- 🏆 Actively participating in ** hackathons and real-world AI projects**
-- 🌱 Currently learning **Advanced LLM Applications and AI System Design**
+```yaml
+name: Moulitha C
+role: Final-Year Computer Science Engineering Student
+focus:
+  - Generative AI
+  - Machine Learning
+  - Multi-Agent AI Systems
+  - AI-Powered Applications
+currently_exploring:
+  - Advanced LLM Applications
+  - Agent-to-Agent (A2A) Protocol
+  - AI System Design
+mindset: Learn → Build → Test → Improve
+```
+
+I’m interested in how intelligent systems are designed, connected, and deployed—not just how individual models work.
+
+My focus is on building practical AI applications, experimenting with agent-based workflows, and developing a strong foundation in software engineering and machine learning.
 
 ---
 
+## `02` / CURRENT OPERATIONS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 NeuralForge
+
+**Multi-Agent AI Code Generator**
+
+Building an AI development workflow where specialized agents collaborate to plan, design, generate, and test code.
+
+`Python` `FastAPI` `LLMs` `Agent Workflows`
+
+</td>
+<td width="50%" valign="top">
+
+### 🛢️ Safety Intelligence
+
+**SIF Precursor Detection**
+
+Developing an AI/NLP engine to identify serious injury and fatality precursors from unsafe-act, unsafe-condition, and near-miss reports.
+
+`Python` `FastAPI` `NLP` `AI Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Scheme-Sathi
+
+**AI-Powered Scheme Navigator**
+
+Exploring how AI can help users discover relevant government welfare schemes through document retrieval and eligibility-focused assistance.
+
+`Python` `RAG` `React` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Research & Experiments
+
+**Learning by Building**
+
+Exploring LLM applications, machine learning workflows, AI agents, and software architecture through hands-on projects.
+
+`ML` `LLMs` `Embeddings` `AI Systems`
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🚀 Tech Arsenal
+## `03` / TECHNICAL TOOLKIT
 
-### 👨‍💻 Programming Languages
-<p>
+<div align="center">
+
+### Languages
+
 <img src="https://skillicons.dev/icons?i=python,js,ts" />
-</p>
 
-### 🌐 MERN Stack
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-</p>
+### Web & Backend
 
-### 🤖 AI / GenAI
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-<img src="https://skillicons.dev/icons?i=opencv" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi" />
 
-### ⚙️ Dev & Deployment Tools
-<p>
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="43" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="43" alt="Pandas"/>
+
+### Developer Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-</p>
 
-### 🧠 LLM & AI Concepts
-- Prompt Engineering  
-- RAG (Retrieval Augmented Generation)  
-- Multi-Agent Systems  
-- Embeddings & Vector Databases  
-- AI Automation Workflows  
+</div>
 
-### 🔐 Cybersecurity Fundamentals
-- Hashing Algorithms (SHA, bcrypt)
-- Symmetric Encryption
-- Asymmetric Encryption
+<details>
+<summary><b>🧩 AI Concepts I’m Exploring</b></summary>
+
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Embeddings and Vector Databases
+- Multi-Agent Systems
+- Agent-to-Agent (A2A) Protocol
+- LLM Orchestration
+- AI Automation Workflows
+- AI System Design
+
+</details>
+
+<details>
+<summary><b>🔐 Cybersecurity Fundamentals</b></summary>
+
+- Hashing: SHA, bcrypt
+- Symmetric and Asymmetric Encryption
 - Digital Signatures
 - SSL/TLS
-- API Security  
+- API Security
 
-
----
-
-## 🧩 Advanced Projects
-
-### 🤖 AI Code Architect
-LLM-based system that generates full-stack code using prompt-driven architecture with automated testing workflows. Built using Python, FastAPI, and LLM APIs.
-
-### 🧠 Autonomous Multi-Agent Developer
-Autonomous Multi-Agent Developer
-Multi-agent architecture where planner, coder, and tester agents collaborate to generate and validate code. Built using Python, LangChain, and agent orchestration workflows.
-
-### 🏛️ AI-Powered Scheme Navigator
-Voice-enabled assistant designed for rural & semi-literate users using RAG + multilingual NLP to recommend government schemes.
-
-
+</details>
 
 ---
 
+## `04` / GITHUB TELEMETRY
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Moulitha01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=66E3C4&icon_color=66E3C4&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moulitha01&layout=compact&hide_border=true&bg_color=0D1117&title_color=66E3C4&text_color=C9D1D9&langs_count=6" alt="Most used languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Moulitha01&theme=transparent&hide_border=true&ring=66E3C4&fire=66E3C4&currStreakLabel=66E3C4&sideLabels=C9D1D9&dates=8B949E" width="90%" alt="GitHub contribution streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moulitha01&bg_color=0D1117&color=C9D1D9&line=66E3C4&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
 ---
 
-## 🌐 Connect With Me
+## `05` / CONTRIBUTION MATRIX
 
-<p align="center">
-<a href="https://linkedin.com/in/moulitha-chandrasekar-8046522a5" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<div align="center">
+
+<!--
+  Requires the GitHub Actions workflow to generate
+  the snake.svg file in the output branch.
+-->
+
+<img src="https://raw.githubusercontent.com/Moulitha01/Moulitha01/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake"/>
+
+</div>
+
+---
+
+## `06` / CONNECTION PORTS
+
+<div align="center">
+
+<a href="https://linkedin.com/in/moulitha-chandrasekar-8046522a5">
+<img src="https://img.shields.io/badge/LinkedIn-Professional_Network-101820?style=for-the-badge&logo=linkedin&logoColor=66E3C4"/>
 </a>
 
-<a href="https://github.com/Moulitha01" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" />
+<a href="https://github.com/Moulitha01">
+<img src="https://img.shields.io/badge/GitHub-Projects_&_Experiments-101820?style=for-the-badge&logo=github&logoColor=66E3C4"/>
 </a>
 
-<a href="https://instagram.com/moulitha_chandrasekar" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" />
+<a href="https://instagram.com/moulitha_chandrasekar">
+<img src="https://img.shields.io/badge/Instagram-Connect-101820?style=for-the-badge&logo=instagram&logoColor=66E3C4"/>
 </a>
 
-<a href="mailto: moulithac@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:moulithac@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-101820?style=for-the-badge&logo=gmail&logoColor=66E3C4"/>
 </a>
-</p>
 
----
-## 📊 GitHub Stats
+<br/><br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moulitha01&show_icons=true&theme=tokyonight)
+<img src="https://komarev.com/ghpvc/?username=Moulitha01&label=SYSTEM%20VISITS&color=1B8A78&style=flat-square" alt="Profile views"/>
 
----
-## 📊 Profile Views
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moulitha01&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" /></p>
+```text
+> Keep exploring.
+> Keep building.
+> Make intelligence useful.
+```
 
-## 🔥 GitHub Streak
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B8A78,50:123C4A,100:0B1020&height=100&section=footer" width="100%"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Moulitha01&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Moulitha01&theme=tokyo-night)
-
----
-
-## 🎯 Current Focus
-
-- Building **Generative AI applications**
-- Learning **LLM orchestration and multi-agent systems**
-- Developing **real-world AI products**
-
----
-
-## ⚡ Fun Fact
-
-I enjoy transforming complex ideas into working AI systems and constantly exploring new technologies in the AI ecosystem.
-
----
-
-<p align="center">
-⭐ If you find my work interesting, consider following my GitHub profile!
-</p>
+</div>
