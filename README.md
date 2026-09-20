@@ -1,60 +1,65 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=8" width="100%" />
+
 # Moulitha C
 
 ### AI SYSTEMS · SOFTWARE ENGINEERING · MACHINE LEARNING
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=Final-Year+Computer+Science+Engineering+Student;Designing+LLM-Powered+Applications;Exploring+Multi-Agent+AI+Systems" alt="Introduction" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=600&height=45&lines=Final-Year+Computer+Science+Engineering+Student;Building+LLM-Powered+Applications;Exploring+Multi-Agent+AI+Systems;Engineering+Reliable+AI+Workflows" alt="Animated introduction" />
 
 <p>
   <a href="https://linkedin.com/in/moulitha-chandrasekar-8046522a5">
-    <img src="https://img.shields.io/badge/LINKEDIN-101820?style=flat-square&logo=linkedin&logoColor=00D9FF" />
+    <img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=00D9FF" />
   </a>
   <a href="mailto:moulithac@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-101820?style=flat-square&logo=gmail&logoColor=00D9FF" />
+    <img src="https://img.shields.io/badge/EMAIL-161B22?style=for-the-badge&logo=gmail&logoColor=00D9FF" />
   </a>
   <a href="https://github.com/Moulitha01">
-    <img src="https://img.shields.io/badge/GITHUB-101820?style=flat-square&logo=github&logoColor=00D9FF" />
+    <img src="https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=00D9FF" />
   </a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363D&height=1&section=header" width="100%" />
+
 </div>
 
----
-
-## 01 / ENGINEERING PROFILE
+## `01` / ENGINEERING PROFILE
 
 I build software at the intersection of **Artificial Intelligence and application engineering**.
 
-My work focuses on designing systems that move beyond isolated AI models — combining LLMs, structured workflows, retrieval, and backend engineering into functional applications.
+My focus is on turning AI capabilities into functional applications — combining LLMs, structured workflows, retrieval, and backend engineering to solve practical problems.
 
 ```text
-CURRENT INTERESTS
+FOCUS AREAS
 ├── Generative AI & LLM Applications
 ├── Multi-Agent System Architecture
 ├── Retrieval-Augmented Generation
-└── AI-Driven Software Engineering
+├── AI-Driven Software Engineering
+└── Machine Learning & Intelligent Systems
 ```
 
 Currently exploring agent coordination, reliable LLM workflows, and the engineering challenges involved in building practical AI systems.
 
 ---
 
-## 02 / SELECTED WORK
+## `02` / SELECTED ENGINEERING WORK
 
-### 01 — NeuralForge
+### ◈ NeuralForge
 **Multi-Agent AI Code Generator**
 
-A coordinated LLM pipeline that transforms a development request into generated code through planning, design, code generation, and testing.
+A coordinated LLM pipeline that transforms development requests into generated code through planning, design, code generation, and testing.
 
 `Python` `FastAPI` `LangChain` `Groq`
 
+<a href="https://github.com/Moulitha01/code_generator">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00D9FF?style=flat-square&logo=github&logoColor=0D1117" />
+</a>
+
 ---
 
-### 02 — OIL Safety Intelligence
+### ◈ OIL Safety Intelligence
 **SIF Precursor Detection**
 
 An AI/NLP-based safety intelligence system designed to identify Serious Injury and Fatality precursors in unsafe-act, unsafe-condition, and near-miss reports.
@@ -63,7 +68,7 @@ An AI/NLP-based safety intelligence system designed to identify Serious Injury a
 
 ---
 
-### 03 — Scheme-Sathi
+### ◈ Scheme-Sathi
 **AI-Powered Welfare Scheme Navigator**
 
 A retrieval-based application designed to help users discover government welfare schemes and understand eligibility using relevant scheme information.
@@ -72,9 +77,15 @@ A retrieval-based application designed to help users discover government welfare
 
 ---
 
-## 03 / TECHNICAL TOOLKIT
+## `03` / TECHNICAL ARSENAL
 
-| Domain | Technologies |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,fastapi,mongodb,git,github,vscode&theme=dark&perline=6" alt="Technical skills" />
+
+</div>
+
+| DOMAIN | TECHNOLOGIES |
 |:--|:--|
 | Languages | Python · JavaScript · TypeScript |
 | AI / ML | PyTorch · TensorFlow · OpenCV · NumPy · Pandas |
@@ -86,7 +97,7 @@ A retrieval-based application designed to help users discover government welfare
 
 ---
 
-## 04 / GITHUB ANALYTICS
+## `04` / GITHUB METRICS
 
 <div align="center">
 
@@ -94,7 +105,7 @@ A retrieval-based application designed to help users discover government welfare
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moulitha01&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
 
-<br/><br/>
+<br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=Moulitha01&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak" />
 
@@ -102,7 +113,7 @@ A retrieval-based application designed to help users discover government welfare
 
 ---
 
-## 05 / ACTIVITY
+## `05` / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -114,12 +125,17 @@ A retrieval-based application designed to help users discover government welfare
 
 <div align="center">
 
-**Building intelligent systems. Engineering beyond the model.**
+### BUILDING INTELLIGENT SYSTEMS.
+### ENGINEERING BEYOND THE MODEL.
 
-<sub>Open to AI engineering opportunities and collaborative projects.</sub>
+Open to AI engineering opportunities and collaborative projects.
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Moulitha01&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Moulitha01&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=8" width="100%" />
 
 </div>
