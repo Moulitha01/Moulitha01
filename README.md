@@ -1,48 +1,35 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00D9FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00B8D9" width="100%" />
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=3200&pause=1200&color=00B8D9&center=true&vCenter=true&width=500&height=25&lines=AI+SYSTEMS+%2F+SOFTWARE+ENGINEERING;BUILDING+LLM-POWERED+APPLICATIONS;EXPLORING+MULTI-AGENT+ARCHITECTURES" alt="Animated engineering tagline" />
 
 # Moulitha C
 
-**AI SYSTEMS ENGINEERING · SOFTWARE DEVELOPMENT · MACHINE LEARNING**
+**Final-Year Computer Science Engineering Student**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=520&height=30&lines=Building+LLM-powered+applications;Exploring+multi-agent+architectures;Engineering+practical+AI+systems" alt="Animated introduction" />
+Building intelligent applications through AI, software engineering, and machine learning.
 
 <br/>
 
-<a href="https://linkedin.com/in/moulitha-chandrasekar-8046522a5">LinkedIn</a>
-&nbsp; / &nbsp;
-<a href="mailto:moulithac@gmail.com">Email</a>
-&nbsp; / &nbsp;
-<a href="https://github.com/Moulitha01">GitHub</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL_INTELLIGENCE-00D9FF?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/BUILDING-AI_APPLICATIONS-00D9FF?style=flat-square&labelColor=0D1117" />
-
-<br/><br/>
+<a href="https://linkedin.com/in/moulitha-chandrasekar-8046522a5">
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=00B8D9" />
+</a>
+<a href="mailto:moulithac@gmail.com">
+<img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=00B8D9" />
+</a>
+<a href="https://github.com/Moulitha01">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=00B8D9" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-`01 / PROFILE` &nbsp;&nbsp; `02 / PROJECTS` &nbsp;&nbsp; `03 / TOOLKIT` &nbsp;&nbsp; `04 / ACTIVITY`
-
-</div>
-
-<br/>
-
-## 01 &nbsp; / &nbsp; ENGINEERING PROFILE
-
-<table>
-<tr>
-<td width="65%" valign="top">
+### `~/about`
 
 I build software at the intersection of **Artificial Intelligence and application engineering**.
 
@@ -50,32 +37,23 @@ My focus is on turning AI capabilities into functional applications — combinin
 
 Currently exploring agent coordination, reliable LLM workflows, and the engineering challenges involved in building practical AI systems.
 
-</td>
-<td width="35%" valign="top">
+**Areas of interest**
 
-**AREAS OF INTEREST**
+`Generative AI` · `Multi-Agent Systems` · `RAG` · `AI-Driven Software Engineering` · `Machine Learning`
 
-- Generative AI & LLMs
-- Multi-Agent Architecture
-- Retrieval-Augmented Generation
-- AI-Driven Software Engineering
-- Machine Learning
+---
 
-</td>
-</tr>
-</table>
+### `~/projects`
 
-<br/>
-
-## 02 &nbsp; / &nbsp; SELECTED PROJECTS
-
-<div align="center">
+<sub>SELECTED WORK / AI SYSTEMS & APPLICATION ENGINEERING</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / NeuralForge
+<sub>01 / MULTI-AGENT AI</sub>
+
+### NeuralForge
 
 **Multi-Agent AI Code Generator**
 
@@ -83,18 +61,21 @@ A coordinated LLM pipeline that transforms development requests into generated c
 
 <br/>
 
-`Python` `FastAPI` `LangChain` `Groq`
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=chainlink&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/Groq-161B22?style=flat-square&logoColor=00B8D9" />
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/Moulitha01/code_generator">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-00D9FF?style=flat-square&labelColor=0D1117" />
-</a>
+<a href="https://github.com/Moulitha01/code_generator">↗ View source</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / OIL Safety Intelligence
+<sub>02 / NLP & SAFETY INTELLIGENCE</sub>
+
+### OIL Safety Intelligence
 
 **SIF Precursor Detection**
 
@@ -102,15 +83,18 @@ An AI/NLP-based safety intelligence system designed to identify Serious Injury a
 
 <br/>
 
-`Python` `FastAPI` `NLP` `Risk Analytics`
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/NLP-161B22?style=flat-square&logoColor=00B8D9" />
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Scheme-Sathi
+<sub>03 / RETRIEVAL & AI APPLICATIONS</sub>
+
+### Scheme-Sathi
 
 **AI-Powered Welfare Scheme Navigator**
 
@@ -118,30 +102,31 @@ A retrieval-based application designed to help users discover government welfare
 
 <br/>
 
-`RAG` `React` `Node.js` `MongoDB`
+<img src="https://img.shields.io/badge/RAG-161B22?style=flat-square&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=00B8D9" />
+<img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=00B8D9" />
 
 </td>
 <td width="50%" valign="top">
 
-### ENGINEERING APPROACH
+<sub>ENGINEERING INTERESTS</sub>
 
-**From AI Models to Applications**
+### Beyond the Model
 
 Combining AI capabilities with structured workflows, retrieval, and backend engineering to build practical applications.
 
 <br/>
 
-`LLMs` `AI Systems` `Software Engineering`
+`LLMs` · `AI Systems` · `Software Engineering`
 
 </td>
 </tr>
 </table>
 
-</div>
+---
 
-<br/>
-
-## 03 &nbsp; / &nbsp; TECHNICAL TOOLKIT
+### `~/toolkit`
 
 <div align="center">
 
@@ -149,62 +134,33 @@ Combining AI capabilities with structured workflows, retrieval, and backend engi
 
 </div>
 
-<br/>
+| DOMAIN | TECHNOLOGIES |
+|:--|:--|
+| Languages | Python · JavaScript · TypeScript |
+| AI / ML | PyTorch · TensorFlow · OpenCV · NumPy · Pandas |
+| Generative AI | LLMs · RAG · Embeddings · Multi-Agent Systems |
+| Backend | FastAPI · Node.js · Express |
+| Frontend | React |
+| Database | MongoDB |
+| Tools | Git · GitHub · VS Code · Vercel |
 
-<table>
-<tr>
-<td width="25%"><b>LANGUAGES</b></td>
-<td>Python · JavaScript · TypeScript</td>
-</tr>
-<tr>
-<td><b>AI / ML</b></td>
-<td>PyTorch · TensorFlow · OpenCV · NumPy · Pandas</td>
-</tr>
-<tr>
-<td><b>GENERATIVE AI</b></td>
-<td>LLMs · RAG · Embeddings · Multi-Agent Systems</td>
-</tr>
-<tr>
-<td><b>BACKEND</b></td>
-<td>FastAPI · Node.js · Express</td>
-</tr>
-<tr>
-<td><b>FRONTEND</b></td>
-<td>React</td>
-</tr>
-<tr>
-<td><b>DATABASE</b></td>
-<td>MongoDB</td>
-</tr>
-<tr>
-<td><b>TOOLS</b></td>
-<td>Git · GitHub · VS Code · Vercel</td>
-</tr>
-</table>
+---
 
-<br/>
-
-## 04 &nbsp; / &nbsp; GITHUB ANALYTICS
+### `~/activity`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Moulitha01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=00D9FF&rank_icon=github" alt="GitHub statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Moulitha01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B8D9&text_color=C9D1D9&icon_color=00B8D9&rank_icon=github" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moulitha01&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moulitha01&layout=compact&hide_border=true&bg_color=0D1117&title_color=00B8D9&text_color=C9D1D9&langs_count=6" alt="Most used languages" />
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=Moulitha01&hide_border=true&background=0D1117&stroke=30363D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Moulitha01&hide_border=true&background=0D1117&stroke=30363D&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-## 05 &nbsp; / &nbsp; CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moulitha01&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=00D9FF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Moulitha01&bg_color=0D1117&color=C9D1D9&line=00B8D9&point=00B8D9&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
@@ -218,10 +174,10 @@ Combining AI capabilities with structured workflows, retrieval, and backend engi
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Moulitha01&label=PROFILE+VIEWS&color=00D9FF&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Moulitha01&label=PROFILE+VIEWS&color=00B8D9&style=flat-square" alt="Profile views" />
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=00D9FF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00B8D9" width="100%" />
 
 </div>
